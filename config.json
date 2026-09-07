@@ -1,0 +1,7 @@
+{
+  "token": "token",
+  "password": "password",
+  "serverID": "guildid",
+  "vanityURL": "vanity",
+  "mfa": ""
+}

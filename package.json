@@ -1,0 +1,15 @@
+{
+  "name": "swapper",
+  "version": "1.0.0",
+  "description": "Vanity swapper - 2fa acik sunuculardan bile cekiyon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "discord-mfa-solver": "latest"
+  }
+}
