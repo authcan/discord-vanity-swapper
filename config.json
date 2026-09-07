@@ -1,7 +1,9 @@
 {
-  "token": "token",
-  "password": "password",
-  "serverID": "guildid",
-  "vanityURL": "vanity",
-  "mfa": ""
+  "token": "hesabın user tokeni",
+  "password": "hesabın şifresi",
+  "serverID": "vanitynin çekileceği sunucu id, hesaba yönetici vermeyi unutma yoksa yarragi yersin",
+  "vanityURL": "çalınacak url",
+  "mfa": "",
+  "claimCount": 5,
+  "countdown": 1
 }
