@@ -65,7 +65,7 @@ ekranda şöyle akar:
 200 | {"code":"roblox"}
 ```
 
-`200` gördün mü vanity senindir aslanım tak tak tak.
+`200` gördün mü vanity senindir aslanım bam bam bam bam bam de:WQqwe
 
 ## claimCount countdown ne diye sorabılırsın soyleyeyim 
 
