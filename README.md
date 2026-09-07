@@ -5,8 +5,7 @@
 ## kurulum
 
 ```
-![cmd ac](image.png)
-klasorun ust kismina cmd yazip
+klasorun ust kismina cmd yazip 
 npm install
 komutunu calistir
 ```
