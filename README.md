@@ -29,7 +29,7 @@ iki yol var:
 
 ### 1. SUNUCUDA 2 FAKTÖRLÜ DOĞRULAMA KAPALIYSA
 
-`mfa`yı BOŞ bırak, sadece şifreyi tokeni guild idyi doldur. kod kendisi ticket ister, şifreyi yollar, mfa tokenını alır, süresi dolmadan yeniler sen hiçbir sikime karışmıyon yanı doldur geç baba
+`mfa`yı BOŞ bırak, sadece şifreyi tokeni guild idyi doldur. kod kendisi ticket ister, şifreyi yollar, mfa tokenını alır, süresi dolmadan yeniler sen hiçbir sikime karışmıyon yanı doldur geç 
 
 ### 2. URL'Sİ CALINACAK SUNUCUDA 2 FAKTÖRLÜ DOGRULAMA ZORUNLUYSA 
 
