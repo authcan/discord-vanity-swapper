@@ -23,9 +23,9 @@ bi kere yapıcan bunu tamamı sonra config.json açıyon
 }
 ```
 
-## mfa olayı (önemli kısım burası aq)
+## mfa olayı 
 
-iki yol var baba:
+iki yol var:
 
 ### 1. SUNUCUDA 2 FAKTÖRLÜ DOĞRULAMA KAPALIYSA
 
