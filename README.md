@@ -44,7 +44,7 @@ iki yol var:
 7. oradaki uzun base64 metnini TAMAMINI EKSİKSİZ kopyalıyosun baba bi harf eksik olursa çalışmaz
 8. configde `"mfa": ""` olan yere yapıştırıyosun
 
-dikkat: bu token 4-5 dakika yaşar kopyaladıktan sonra götünü siktirtmezssen direkt çalıştır.
+dikkat: bu token 4-5 dakika yaşar kopyaladıktan sonra götünü siktirtmezssen direkt çalıştır
 
 ## çalıştırma
 
