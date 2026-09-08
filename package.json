@@ -1,7 +1,7 @@
 {
   "name": "swapper",
   "version": "1.0.0",
-  "description": "Vanity swapper - 2fa acik sunuculardan bile cekiyon",
+  "description": "Vanity swapper",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
