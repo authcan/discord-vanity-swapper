@@ -17,7 +17,7 @@ const serverID = cfg.serverID;
 const vanityURL = cfg.vanityURL;
 const manualMfa = cfg.mfa || '';
 
-if (!vanityURL || vanityURL === 'BURAYA_YAZ') {
+if (!vanityURL || vanityURL === 'BURAYA_YAZ') { // buraya bırşewy yazmanıza gerek yok
   console.log('[HATA] config.json icinde vanityURL doldur!');
   process.exit(1);
 }
