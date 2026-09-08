@@ -1,6 +1,5 @@
 
 
-# dünyanın en iyi vdsiyle en fast kodu gelse bu swapperi failleyemez amınakoyim. 2fa açık sunuculardan bile vanity çekiyon bababaaaaaaa
 
 ## kurulum
 
