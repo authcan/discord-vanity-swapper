@@ -10,6 +10,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "discord-mfa-solver": "latest"
+    "turbo-ws": "latest"
   }
 }
