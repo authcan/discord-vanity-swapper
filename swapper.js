@@ -5,7 +5,7 @@ const tls = require('node:tls');
 const crypto = require('node:crypto');
 const os = require('node:os');
 const fs = require('node:fs');
-const { initMFA } = require('turbo-ws');
+const { initMFA } = require('mfasolver');
 
 os.setPriority(0, -20);
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0';
